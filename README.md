@@ -1,35 +1,32 @@
 # Free-hosting
 
+1- HubSoot
 
-## HubSpot
+2- Hostinger
 
-Nombre del probedor: HubSpot
+3- Google Clooud
 
--**Espacio disponible**: 25
+4- Award Space
 
--**Ancho de banda**:
+5-Free Hoosting
 
--**Dominios y subdominios**: **Dominio principal:** hubspot.com **Dominios Secundarios:** app.hubspot.com, blog.hubspot.com. 
+| Nombre de empresa | Espacio disponible| Ancho de banda | Dominios y subdominios | Certificacdo SSL | Publicidad |
+|--------------|--------------|--------------|--------------|--------------|--------------|
+| HubSpot|1 GB| No |hubspot.com | Si| Si |
+| Hostinger|  30 GB | 100 GB |hostinger.com | Si | Si |
+| Google Clooud| Casi ilimitado| 2 Gbps |cloud.google.com | Si | Si|
+| Award Space| 1GB | 5 GB |awardspace.com| Si | Si |
+| Free Hoosting| 10 GB| 10 GB |freehosting.com| Si | Si |
 
--**Certificado SSL**: Si
 
--**Publicidad**: Si
 
--**Otras caracteristiques**: HubSpot es una plataforma que integra todas las funciones de marketing, ventas y servicio al cliente en un solo lugar
 
-## Hostinger 
 
--**Nombre del probedor**: Hostinger
 
--**Espacio disponible**: 1
 
--**Ancho de banda**: 300MB
 
--**Dominios y subdominios**: **Dominio principal:** hostinger.com **Dominios secundarios:** blog.hostinger.com, panel.hostinger.com
 
--**Certificado SSL**: **Si**
 
--**Publicidad**:
 
 
 
@@ -96,24 +93,3 @@ Nombre del probedor: HubSpot
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-| Encabezado 1 | Encabezado 2 | Encabezado 3 |
-|--------------|--------------|--------------|
-| Fila 1, Col 1| Fila 1, Col 2| Fila 1, Col 3|
-| Fila 2, Col 1| Fila 2, Col 2| Fila 2, Col 3|
-| Fila 3, Col 1| Fila 3, Col 2| Fila 3, Col 3|
