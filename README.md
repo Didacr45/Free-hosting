@@ -19,7 +19,7 @@
 | Free Hoosting| 10 GB| 10 GB |freehosting.com| Si | Si |
 
 
-**En este enlace se mostrara como crear una pagina web en los distintos hostings** [Tutorial Infinityfree](https://github.com/Didacr45/Free-hosting/blob/main/InfinityFree.md)
+**En este enlace se mostrara como crear una pagina web en los distintos hostings** [Tutorial Clouds](https://github.com/Didacr45/Free-hosting/blob/main/InfinityFree.md)
 
 
 
