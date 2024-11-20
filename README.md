@@ -19,8 +19,10 @@
 | Free Hoosting| 10 GB| 10 GB |freehosting.com| Si | Si |
 
 
+**En este enlace se mostrara como crear una pagina web en Infinityfree**
+En este enlace podras ver el manual de configuarcion de **OwnCloud** [Configuracion](https://github.com/Didacr45/Free-hosting/blob/main/InfinityFree.md)
 
-
+De los ''Free Hosting'' no e podido sacar tutorial por que en todos habia una parte que para poder crear el dominio te hacia pagar.
 
 
 
